@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 👀 I love Programming.
+- 🌱 Freelance Web Developer 💻
 - 📫 How to reach me email- shivammishra.id@gmail.com
 
 <!---
